@@ -1,4 +1,4 @@
-<b> My First Java Game (IntelliJ,Java, CityEngine40) </b>
+<b> My First Java Game (IntelliJ, Java, CityEngine40) </b>
 
 How To Open the Project
 
