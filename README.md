@@ -1,4 +1,7 @@
-My first Java game made in IntelliJ, using CityEngine40, City Universitys game engine
+<b> My First Java Game (IntelliJ,Java, CityEngine40) </b>
+
+How To Open the Project
+
 1. Download all files into one folder
 2. Open the folder in Intellij (I've attempted to open it in VS Code and found no luck unfortunately)
 3. Direct to src/com/Safee/Game.java and press "Run" on the top corner
