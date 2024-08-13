@@ -1,5 +1,7 @@
 <b> My First Java Game (IntelliJ, Java, CityEngine40) </b>
 
+Java game was my first gaming project made using CityEngine40 (City University's game engine) to keep it breif it is a 2D shooter game with 3 levels.
+
 How To Open the Project
 
 1. Download all files into one folder
